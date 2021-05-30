@@ -1,0 +1,10 @@
+color: ash #5A6E79
+       orange #FFC178
+       neviblue #252c3a
+       white #FFFFFF
+       light green #43CB83
+       footer paragraph  ash #969595
+       footer paragraph  light ash #6B6B6B
+       deep orange: #f9703a
+       green #80be41
+       ffb258

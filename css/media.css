@@ -1,0 +1,489 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	/*header start*/
+	.menu ul li a{
+	padding: 4px 1px !important;
+}
+.btn{
+	border-radius: 7.25rem;
+	padding: 11px 20px !important;
+	margin: 0 -22px;
+	
+}
+	/*header end*/
+	/*slider 1 start*/
+	.c_img {
+    min-height: 230px;
+}
+.c_h1 {
+    margin: 0px 0 2px 0;
+    font-family: Montserrat-Bold, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #FFC178;
+}
+.c_p {
+    margin-right: 74px;
+    font-family: WorkSans-Regular,sans-serif;
+    font-size: 8px;
+    font-weight: 400;
+    color: #5A6E79;
+}
+
+.c_btn {
+  margin: 0 0 178px -4px;
+    font-family: WorkSans-Regular,sans-serif;
+    font-size: 8px;
+    font-weight: 400;
+    color: #FFFFFF;
+    border-radius: 7.25rem;
+    padding: 11px 20px !important;
+    border: none;
+    background-color: #FFC178;
+}
+.c_c_cap {
+    bottom: -9%;
+    right: 5%;
+    left: 5%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    text-align: left;
+    width: 80%;
+}
+.cid {
+    position: absolute;
+    right: 13px;
+    bottom: -10px;
+}
+	/*slider 1 end*/
+	/*slider 2 start*/
+		.c_img {
+  min-height: 284px;
+}
+.c_h1_2{
+   font-size: 11px;
+   font-weight: 700;
+}
+.c_p_2{
+    font-size: 9px;
+    font-weight: 400;
+
+}
+
+.c_btn_2 {
+      margin: 0px 0 209px 0;
+   font-size: 9px;
+}
+.c_c_cap2 {
+     bottom: -47%;
+}
+.cid {
+    position: absolute;
+    right: 13px;
+    bottom: -35px;
+}
+	/*slider 2 end*/
+    /*our department start*/
+    .s_h1 {
+    font-family: WorkSans-Bold,sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    color: #252C3A;
+}
+.s_s_p {
+    font-size: 17px;
+}
+/*our department end*/
+/*limitlesss start*/
+.l_text {
+      margin: 46px 0 0 72px;
+}
+.limit_img {
+    height: 227px;
+}
+.s_h1 {
+    font-size: 22px;
+}
+.s_s_p {
+    font-size: 11px;
+}
+.m_p {
+    margin-top: 5px;
+    line-height: 19px;
+    word-spacing: 1px;
+}
+.l_top {
+    margin-top: 3px;
+}
+.limit_text1 {
+    font-family: Montserrat-Bold !important;
+    font-size: 25px;
+    font-weight: 700;
+}
+.limit_text2 {;
+    font-size: 15px;
+
+}
+/*limitlesss end*/
+/*University start*/
+/*University end*/
+/*footer top start*/
+.btn-form {
+    margin: -122px -27px 0 346px;
+}
+.btn {
+    border-radius: 2px;
+    padding: 0px 2px !important;
+    margin: 0 44px !important;
+}
+/*footer top end*/
+/*footer bottom start*/
+/*footer bottom end*/
+
+ }
+ 
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	/*header start*/
+	.menu ul li a{
+	padding: 4px 1px !important;
+}
+.btn{
+	border-radius: 7.25rem;
+	padding: 11px 20px !important;
+	margin: 0 -22px;
+	
+}
+	/*header end*/
+	/*slider start*/
+	.c_h1 {
+    font-size: 14px;
+}
+.c_p {
+    font-size: 11px;
+}
+.c_btn {
+    margin: 0 0px 126px 0;
+    font-size: 9px;
+}
+.c_c_cap {
+    bottom: -5%;
+    left: 11%;
+    /* border: 1px solid black; */
+}
+.cid {
+    position: absolute;
+    right: 48px;
+    bottom: 0px;
+}
+	/*slider end*/
+    /*our department start*/
+    .s_h1 {
+    font-size: 25px;
+}
+.s_s_p {
+    font-size: 15px;
+
+}
+/*our department end*/
+/*limitlesss start*/
+.limitless {
+    margin: -460px 0 0 -19px;
+}
+.limit_img {
+    height: 415px;
+    width: 551px;
+    margin: -64px 0 0 -9px;
+}
+.l_text {
+    margin: 462px 0 0 -175px;
+}
+.s_h1 {
+    font-size: 23px;
+}
+.s_s_p {
+    font-size: 13px;
+}
+.l_top {
+    margin-top: 5px;
+}
+.limit_text1 {
+    font-size: 30px;
+}
+.limit_text2 {
+    font-size: 20px;
+}
+/*limitlesss end*/
+/*University start*/
+/*University end*/
+/*footer top start*/
+.btn-form {
+    margin: -122px -27px 0 346px;
+}
+.btn {
+    border-radius: 2px;
+    padding: 0px 2px !important;
+    margin: 0 44px !important;
+}
+/*footer top end*/
+/*footer bottom start*/
+.f_bottom{
+    margin: 0px 0 6px -75px;
+}
+.f_b {
+    margin: 10px 0 0 33px;
+    padding: 0;
+}
+.f_list {
+    margin: 3px 0 0 191px;
+}
+/*footer bottom end*/
+
+}
+ 
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	/*header start*/
+	.menu ul li a{
+    padding: 4px 2px !important;
+}
+.btn{
+	border-radius: 7.25rem;
+	padding: 11px 20px !important;
+	margin: 0 -27px !important;
+}
+	/*header end*/
+	/*slider 1 start*/
+	.c_h1 {
+    font-size: 21px;
+}
+.c_p {
+    font-size: 13px;
+ 
+}
+.c_btn {
+    font-size: 11px;
+}
+.c_c_cap {
+    bottom: 32%;
+    left: 13%;
+
+}
+.cid {
+    position: absolute;
+    right: 0px;
+    bottom: 5px;
+}
+    /*slider 1 end*/
+    /*slider 2 start*/
+    	.c_h1_2 {
+    font-size: 21px;
+}
+.c_p_2 {
+    font-size: 13px;
+ 
+}
+.c_btn_2 {
+    font-size: 11px;
+}
+.c_c_cap2 {
+    bottom: 32%;
+
+
+}
+.cid {
+    position: absolute;
+    right: 0px;
+    bottom: 5px;
+}
+    /*slider 2 end*/
+    /*our department start*/
+    .s_h1 {
+    font-size: 26px;
+}
+.s_s_p {
+    font-size: 14px;
+}
+.lm_text {
+    margin: 0 0 0 23px;
+}
+
+
+/*our department end*/
+/*limitlesss start*/
+.l_text {
+    margin: 11% 0 0 11%;
+}
+.shape_img {
+    margin: 19px 0 0 -148px;
+}
+.limit_img {
+    height: 383px;
+}
+.s_h1 {
+    font-size: 24px;
+}
+.s_s_p {
+    font-size: 13px;
+}
+.l_top {
+    margin-top: 10px;
+}
+.limit_text1 {
+    font-size: 35px;
+}
+.limit_text2 {
+ font-size: 20px;
+}
+/*limitlesss end*/
+/*University start*/
+.card_5 {
+    margin: 0 0 0 -7px;
+}
+.card_6 {
+    margin: -16px 0 -4px -1px;
+}
+/*University end*/
+/*footer top start*/
+.btn-form {
+    margin: -122px -27px 0 509px;
+}
+.btn {
+    border-radius: 2px;
+    padding: 0px 2px !important;
+    margin: 0 44px !important;
+}
+/*footer top end*/
+/*footer bottom start*/
+/*footer bottom end*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+    
+	/*slider 1 start*/
+	.c_h1 {
+    font-size: 29px;
+}
+
+.c_p {
+    font-size: 14px;
+}
+.c_btn {
+    font-size: 15px;
+}
+	/*slider end*/
+
+
+.cid {
+    position: absolute;
+    right: 20px;
+    bottom: 18px;
+}
+/*slider 1 end*/
+/*slider 2 start*/
+.c_h1_2 {
+    font-size: 29px;
+}
+
+.c_p_2 {
+    font-size: 14px;
+}
+.c_btn_2 {
+    font-size: 15px;
+}
+	/*slider end*/
+    .s_img {
+    padding: 21px;
+}
+    /*slider 2 end*/
+/*our department start*/
+/*1024*/
+/*single service*/
+.s_h1 {
+    font-size: 33px;
+   
+}
+.s_s_p {
+    margin: 16px 12px 8px 40px;
+    font-family: WorkSans-Regular,sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #5A6E79;
+}
+.single_service2 {
+    padding: 32px 0px 62px 2px;
+}
+.s_card{
+    margin-top: 20px;
+}
+
+/*our department end*/
+/*limitlesss start*/
+.limitless {
+    margin: -461px 0 0 -32px;
+}
+.limit_img {
+    height: 381px;
+}
+.l_text {
+    margin: -132px 0 0 34%;
+}
+.s_h1 {
+    font-size: 25px;
+}
+.s_s_p {
+    margin: 16px 12px 8px 40px;
+    font-size: 15px;
+}
+.l_top {
+    margin-top: 30px;
+}
+.limit_text1 {
+    font-size: 35px;
+}
+/*limitlesss end*/
+/*University start*/
+
+
+/*University end*/
+/*footer top start*/
+.btn-form {
+    margin: -122px -27px 0 276px;
+}
+.btn_email {
+    margin: 0 0 0 55px;
+}
+/*footer top end*/
+/*footer bottom start*/
+/*footer bottom end*/
+}
+
+
+
+/*Extra Large devices (Exrtra large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    /*footer top start*/
+    .btn_email {
+    margin: 0 0 0 72px;
+}
+.btn-form {
+    margin: -122px -27px 0 383px;
+}
+/*footer top end*/
+/*footer bottom start*/
+/*footer bottom end*/
+}
+
+/*Extra Extra large devices (Extra Extra large desktops, 1200px and up)*/
+@media (min-width: 1400px) { 
+
+	
+	
+}  
+
+
